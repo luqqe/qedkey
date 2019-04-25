@@ -1,5 +1,11 @@
 # QedKey
 
+&nbsp;
+
+![QedKey screenshot](screenshot.png)
+
+&nbsp;
+
 Vintage CW training software, developed originally in Delphi 3 in mid 1990s.
 
 After several years I have started a new portable project in C called [CWStudio](http://cwstudio.sourceforge.net/) and abandoned QedKey.
